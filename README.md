@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Pranjal Pandey</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16191500-Coder/attachments/8050475?mode=media")
+(img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/swapnalshahil/swapnalshahil/master/gifs/coder.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalpandey0610&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalpandey0610" /> </p>
 
