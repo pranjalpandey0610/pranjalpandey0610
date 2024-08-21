@@ -2,10 +2,10 @@
     <h3 align="center">A passionate Fullstack Developer from India</h3>
     <img align = "center" alt="Coding" width="400" style="padding-left: 200px" src="https://camo.githubusercontent.com/28e64d517089d4b23ff5716340d789b4af32b3aa44001a62677f273d3ee898d5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966">
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalpandey0610&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalpandey0610" /> </p>
-    - 🌱 I’m currently learning **Nodejs*
-    - 👨‍💻 All of my projects are available at [https://blackwizard.netlify.app/](https://blackwizard.netlify.app/)
-    - 💬 Ask me about **frontend, backend, database**
-    - 📫 How to reach me **pranjalpandey217@gmail.com**
+    - 🌱 I’m currently learning **Nodejs**<br>
+    - 👨‍💻 All of my projects are available at [https://blackwizard.netlify.app/](https://blackwizard.netlify.app/)<br>
+    - 💬 Ask me about **frontend, backend, database**<br>
+    - 📫 How to reach me **pranjalpandey217@gmail.com**<br>
     - ⚡ Fun fact **I am a box-cricketer**
     </p>
     <h3 align="left">Languages and Tools:</h3>
