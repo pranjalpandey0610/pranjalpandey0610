@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranjal Pandey</h1>
     <h3 align="center">A passionate Fullstack Developer from India</h3>
-    <img align = "center" alt="Coding" width="400" style="padding-left: 200px" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
+    <img align = "center" alt="Coding" width="400" style="padding-left: 200px" src="[https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif](https://camo.githubusercontent.com/9410e6eec2f6414bea0e262cfae8def9af365b8672b06ba16bb306bf2db5be51/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f35362f63612f36353536636130383836613232393438353733633138343531363965376132312e676966)">
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalpandey0610&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalpandey0610" /> </p>
     - 🌱 I’m currently learning **Nodejs*
     - 👨‍💻 All of my projects are available at [https://blackwizard.netlify.app/](https://blackwizard.netlify.app/)
