@@ -15,7 +15,6 @@
 ---
 
 - 🌱 Currently learning **Node.js**
-- 💻 Explore all my work: [Portfolio Website](https://pranjalpandey0610.netlify.app/)
 - 💬 Ask me about: **Frontend, Backend, Databases**
 - 📫 Reach me at: **pranjalpandey217@gmail.com**
 - ⚡ Fun fact: *I’m a box cricketer!*
